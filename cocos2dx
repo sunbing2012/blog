@@ -1,0 +1,1 @@
+spriteFrameCache 是按plist里的key来做全局区分的，所有不同plist里的key一定不能相同，不然会导致帧混乱
